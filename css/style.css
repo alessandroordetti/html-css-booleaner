@@ -1,6 +1,7 @@
-.img-and-logo {
+body {
     width: 1060px;
-    height: 175px;
+}
+.img-and-logo {
     /* Colore copiato con ispector */
     background-image: url('../img/img/pattern.png');
     background-color: hsl(212deg 100% 65%);
@@ -29,10 +30,22 @@ h1 {
     color: hsl(212deg 100% 65%);
 }
 
-h6, h5 {
+h6 {
+    margin-block-start: 0.1em;
+    margin-block-end: 0.1em; 
+}
+
+h4 {
     margin-block-start: 0.1em;
     margin-block-end: 0.1em;
+    color: hsl(0deg 0% 59%);
 }
+
+#highlight1, #highlight2 {
+    background-color: yellow;
+}
+
+
 
 
 
