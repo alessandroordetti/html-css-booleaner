@@ -1,7 +1,18 @@
 .img-and-logo {
     width: 1060px;
-    height: 100px;
+    height: 175px;
     /* Colore copiato con ispector */
+    background-image: url('../img/img/pattern.png');
     background-color: hsl(212deg 100% 65%);
+    position: relative;
 }
+
+#logo {
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}
+
+
 
