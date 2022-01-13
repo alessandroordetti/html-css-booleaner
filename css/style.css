@@ -45,6 +45,19 @@ h4 {
     background-color: yellow;
 }
 
+th {
+    color: white;
+    background-color: hsl(212deg 100% 65%);
+    width: 260px;
+}
+
+#th3 {
+    width: 540px;
+}
+
+#table-row-1, #table-row-3 {
+    background-color: hsl(192deg 71% 82%);
+}
 
 
 
