@@ -21,7 +21,7 @@ h1 {
     margin-block-end: 0.1em;  
 }
 
-#tim {
+#tim, #interesting {
     color: #535050;
     margin-top: 20px;
 }
@@ -58,6 +58,29 @@ th {
 #table-row-1, #table-row-3 {
     background-color: hsl(192deg 71% 82%);
 }
+
+.square-img1 {
+    background-image: url('../img/img/monitor.jpg');
+    width: 210px;
+    height: 160px;
+    color: white;
+    display: block;
+}
+
+.square-img2 {
+    background-image: url('../img/img/graph.jpg');
+    width: 210px;
+    height: 160px;
+    color: white;
+}
+
+#centered-text {
+    padding-left: 10px;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+
 
 
 
