@@ -26,6 +26,10 @@ h1 {
     margin-top: 20px;
 }
 
+ul {
+    padding-left: 15px;
+}
+
 #the-booleaner {
     color: hsl(212deg 100% 65%);
 }
