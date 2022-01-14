@@ -1,6 +1,7 @@
 body {
     width: 1060px;
 }
+
 .img-and-logo {
     /* Colore copiato con ispector */
     background-image: url('../img/img/pattern.png');
@@ -56,12 +57,12 @@ h4 {
 th {
     color: white;
     background-color: hsl(212deg 100% 65%);
-    width: 260px;
+    width: 25%;
     text-align: left;
 }
 
 #th3 {
-    width: 540px;
+    width: 50%;
 }
 
 #table-row-1, #table-row-3 {
