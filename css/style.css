@@ -30,6 +30,10 @@ ul {
     padding-left: 15px;
 }
 
+table {
+    border-spacing: 0;
+}
+
 #the-booleaner {
     color: hsl(212deg 100% 65%);
 }
